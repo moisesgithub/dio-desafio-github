@@ -4,7 +4,7 @@
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Os 5 Qs
-### Pseudo Código para entender melhor o início de como fazer um algoritmo a partir desses passo a passo!
+### Pseudocódigo para entender melhor o início de como fazer um algoritmo a partir desses passo a passo!
 
 1. Quais são os dados de entrada necessários?
 2. O que devo fazer com estes dados?
